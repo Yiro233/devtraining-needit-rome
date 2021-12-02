@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="DELETE">
+        <default>true</default>
+        <sc_catalog display_value="Catalog for NeedIt">2981f85f2f0001104e0249e72799b654</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-01 01:40:38</sys_created_on>
+        <sys_id>abb1bc5f2f0001104e0249e72799b601</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Catalog for NeedIt.catalog_catalog_for_needit</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_catalog_for_needit">a3b1bc5f2f0001104e0249e72799b600</sys_portal_page>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_abb1bc5f2f0001104e0249e72799b601</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-01 01:40:38</sys_updated_on>
+    </sc_catalog_view_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>1b1e1eb6dbf15f088264f70fbf9619dd</instance_id>
+        <instance_name>dev58096</instance_name>
+        <name>sc_catalog_view_mtom_abb1bc5f2f0001104e0249e72799b601</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom"><sc_catalog_view_mtom action="INSERT_OR_UPDATE"><default>true</default><sc_catalog display_value="Catalog for NeedIt">2981f85f2f0001104e0249e72799b654</sc_catalog><sys_class_name>sc_catalog_view_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-12-01 01:40:38</sys_created_on><sys_id>abb1bc5f2f0001104e0249e72799b601</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Catalog for NeedIt.catalog_catalog_for_needit</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_portal_page display_value="catalog_catalog_for_needit">a3b1bc5f2f0001104e0249e72799b600</sys_portal_page><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sc_catalog_view_mtom_abb1bc5f2f0001104e0249e72799b601</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-01 01:40:38</sys_updated_on></sc_catalog_view_mtom></record_update>]]></payload>
+        <payload_hash>1497265519</payload_hash>
+        <record_name>Catalog for NeedIt.catalog_catalog_for_needit</record_name>
+        <reverted_from/>
+        <source>e0179f792f5b30104e0249e72799b6be</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-01 01:40:38</sys_created_on>
+        <sys_id>a3b1bc5f2f0001104e0249e72799b604</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17d73a69daf0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-01 01:40:38</sys_updated_on>
+        <type>Catalog Portal Page</type>
+        <update_guid>ebb1bc5f2600011095b7a3ffe6c36803</update_guid>
+        <update_guid_history>ebb1bc5f2600011095b7a3ffe6c36803:1497265519</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Catalog for NeedIt.catalog_catalog_for_needit">57f230df2f0001104e0249e72799b646</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-01 01:46:05</sys_created_on>
+        <sys_db_object display_value="" name="sc_catalog_view_mtom">sc_catalog_view_mtom</sys_db_object>
+        <sys_id>0f3597488346409c954e7bcbbc9dabb9</sys_id>
+        <sys_metadata>abb1bc5f2f0001104e0249e72799b601</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Catalog for NeedIt.catalog_catalog_for_needit</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sc_catalog_view_mtom_abb1bc5f2f0001104e0249e72799b601</sys_update_name>
+        <sys_update_version display_value="sc_catalog_view_mtom_abb1bc5f2f0001104e0249e72799b601">a3b1bc5f2f0001104e0249e72799b604</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-01 01:46:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
