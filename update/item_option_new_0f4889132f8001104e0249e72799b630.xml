@@ -66,16 +66,16 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2021-12-01 03:21:11</sys_created_on>
+        <sys_created_on>2021-12-06 02:18:31</sys_created_on>
         <sys_id>0f4889132f8001104e0249e72799b630</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Other</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>item_option_new_0f4889132f8001104e0249e72799b630</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-12-01 03:25:01</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-12-06 02:24:39</sys_updated_on>
         <table/>
         <tooltip/>
         <type>6</type>
@@ -95,6 +95,45 @@
         <write_roles/>
     </item_option_new>
     <sys_translated_text action="delete_multiple" query="documentkey=0f4889132f8001104e0249e72799b630"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>0f4889132f8001104e0249e72799b630</documentkey>
+        <fieldname>help_text</fieldname>
+        <language>ja</language>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-12-06 02:24:39</sys_created_on>
+        <sys_id>b0cb26782f5041104e0249e72799b62b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-12-06 02:24:39</sys_updated_on>
+        <tablename>item_option_new</tablename>
+        <value/>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>0f4889132f8001104e0249e72799b630</documentkey>
+        <fieldname>instructions</fieldname>
+        <language>ja</language>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-12-06 02:24:39</sys_created_on>
+        <sys_id>34cb26782f5041104e0249e72799b627</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-12-06 02:24:39</sys_updated_on>
+        <tablename>item_option_new</tablename>
+        <value/>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>0f4889132f8001104e0249e72799b630</documentkey>
+        <fieldname>rich_text</fieldname>
+        <language>ja</language>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-12-06 02:24:39</sys_created_on>
+        <sys_id>f4cb26782f5041104e0249e72799b62f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-12-06 02:24:39</sys_updated_on>
+        <tablename>item_option_new</tablename>
+        <value/>
+    </sys_translated_text>
     <fx_price action="delete_multiple" query="id=0f4889132f8001104e0249e72799b630"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>

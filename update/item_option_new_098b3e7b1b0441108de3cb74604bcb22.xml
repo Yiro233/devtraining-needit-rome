@@ -66,7 +66,7 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2021-12-03 01:01:28</sys_created_on>
+        <sys_created_on>2021-12-06 02:18:31</sys_created_on>
         <sys_id>098b3e7b1b0441108de3cb74604bcb22</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Description</sys_name>
@@ -74,8 +74,8 @@
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>item_option_new_098b3e7b1b0441108de3cb74604bcb22</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-12-03 01:01:28</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-12-06 02:24:36</sys_updated_on>
         <table/>
         <tooltip/>
         <type>2</type>
@@ -86,7 +86,7 @@
         <validate_regex/>
         <variable_name/>
         <variable_set/>
-        <variable_width>100</variable_width>
+        <variable_width>50</variable_width>
         <visibility>1</visibility>
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>
@@ -95,6 +95,45 @@
         <write_roles/>
     </item_option_new>
     <sys_translated_text action="delete_multiple" query="documentkey=098b3e7b1b0441108de3cb74604bcb22"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>098b3e7b1b0441108de3cb74604bcb22</documentkey>
+        <fieldname>help_text</fieldname>
+        <language>ja</language>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-12-06 02:24:37</sys_created_on>
+        <sys_id>54cbe2782f5041104e0249e72799b687</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-12-06 02:24:37</sys_updated_on>
+        <tablename>item_option_new</tablename>
+        <value/>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>098b3e7b1b0441108de3cb74604bcb22</documentkey>
+        <fieldname>instructions</fieldname>
+        <language>ja</language>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-12-06 02:24:36</sys_created_on>
+        <sys_id>d4cbe2782f5041104e0249e72799b683</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-12-06 02:24:36</sys_updated_on>
+        <tablename>item_option_new</tablename>
+        <value/>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>098b3e7b1b0441108de3cb74604bcb22</documentkey>
+        <fieldname>rich_text</fieldname>
+        <language>ja</language>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-12-06 02:24:37</sys_created_on>
+        <sys_id>98cbe2782f5041104e0249e72799b68b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-12-06 02:24:37</sys_updated_on>
+        <tablename>item_option_new</tablename>
+        <value/>
+    </sys_translated_text>
     <fx_price action="delete_multiple" query="id=098b3e7b1b0441108de3cb74604bcb22"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
