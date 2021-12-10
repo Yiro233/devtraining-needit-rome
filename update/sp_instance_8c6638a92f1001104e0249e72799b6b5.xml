@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">20dd1bf22f0001104e0249e72799b68d</sp_column>
+        <sp_widget display_value="炫酷时钟">3a36b30b6f3631005be8583e6b3ee490</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-08 01:47:13</sys_created_on>
+        <sys_id>8c6638a92f1001104e0249e72799b6b5</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>中国時間</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sp_instance_8c6638a92f1001104e0249e72799b6b5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-08 06:12:42</sys_updated_on>
+        <title>中国時間</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"zone": {
+		"value": "HongKong",
+		"displayValue": "HongKong"
+	},
+	"c_color": {
+		"value": "#FFA500",
+		"displayValue": "#FFA500"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=8c6638a92f1001104e0249e72799b6b5"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>8c6638a92f1001104e0249e72799b6b5</documentkey>
+        <fieldname>short_description</fieldname>
+        <language>ja</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-08 01:47:13</sys_created_on>
+        <sys_id>406638a92f1001104e0249e72799b6b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-08 01:47:13</sys_updated_on>
+        <tablename>sp_instance</tablename>
+        <value/>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>8c6638a92f1001104e0249e72799b6b5</documentkey>
+        <fieldname>title</fieldname>
+        <language>ja</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-08 01:47:13</sys_created_on>
+        <sys_id>806638a92f1001104e0249e72799b6b9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-08 06:12:42</sys_updated_on>
+        <tablename>sp_instance</tablename>
+        <value>中国時間</value>
+    </sys_translated_text>
+</record_update>
