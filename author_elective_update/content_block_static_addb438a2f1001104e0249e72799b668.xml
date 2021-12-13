@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="content_block_static">
+    <content_block_static action="DELETE">
+        <active>true</active>
+        <category>catalog</category>
+        <condition/>
+        <conditional>false</conditional>
+        <frame/>
+        <logged_on>false</logged_on>
+        <name>ライセンス利用申請</name>
+        <static_content><![CDATA[<div>
+<h4 class="wizard-row-indent">何を申請しますか&#xff1f;</h4>
+</div>
+<p><a href="https://fujitsudspudev4.service-now.com/wizard_view.do?sys_action&#61;sysverb_wizard_ans&amp;WIZARD:action&#61;follow&amp;wiz_referring_url&#61;&amp;wiz_collection_key&#61;&amp;wiz_collectionID&#61;&amp;wiz_collection&#61;&amp;wiz_collection_related_field&#61;&amp;wiz_view&#61;&amp;wiz_action&#61;sysverb_new&amp;sys_id&#61;53a76e4b1bbbf0500223c99b234bcb87&amp;sysparm_query&#61;&amp;sysparm_target&#61;&amp;sys_target&#61;x_fudsp_isv_licmgt_npae_isv_license_invoice" rel="nofollow">簡易チェック&#xff1a;ライセンス内容の適正利用を確認したい</a></p>
+<p><a href="https://fujitsudspudev4.service-now.com/wizard_view.do?sys_action&#61;sysverb_wizard_ans&amp;WIZARD:action&#61;follow&amp;wiz_referring_url&#61;&amp;wiz_collection_key&#61;&amp;wiz_collectionID&#61;&amp;wiz_collection&#61;&amp;wiz_collection_related_field&#61;&amp;wiz_view&#61;&amp;wiz_action&#61;sysverb_new&amp;sys_id&#61;b707660b1bbbf0500223c99b234bcbd5&amp;sysparm_query&#61;&amp;sysparm_target&#61;&amp;sys_target&#61;x_fudsp_isv_licmgt_npae_isv_license_invoice" rel="nofollow">事前利用申請&#xff1a;正式に提案する前に、有識者の事前確認が必要なライセンスについて、確認を依頼したい</a></p>
+<p><a href="https://fujitsudspudev4.service-now.com/wizard_view.do?sys_action&#61;sysverb_wizard_ans&amp;WIZARD:action&#61;follow&amp;wiz_referring_url&#61;&amp;wiz_collection_key&#61;&amp;wiz_collectionID&#61;&amp;wiz_collection&#61;&amp;wiz_collection_related_field&#61;&amp;wiz_view&#61;&amp;wiz_action&#61;sysverb_new&amp;sys_id&#61;e515a2871bbbf0500223c99b234bcb06&amp;sysparm_query&#61;&amp;sysparm_target&#61;&amp;sys_target&#61;x_fudsp_isv_licmgt_npae_isv_license_invoice" rel="nofollow">新規利用申請&#xff1a;正式に提案するライセンスについて、利用申請、および、見積を依頼したい</a></p>]]></static_content>
+        <sys_class_name>content_block_static</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-10 02:07:21</sys_created_on>
+        <sys_id>addb438a2f1001104e0249e72799b668</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ライセンス利用申請</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>content_block_static_addb438a2f1001104e0249e72799b668</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-10 02:07:21</sys_updated_on>
+    </content_block_static>
+    <sys_translated_text action="DELETE" query="documentkey=addb438a2f1001104e0249e72799b668"/>
+    <sys_translated_text action="DELETE">
+        <documentkey>addb438a2f1001104e0249e72799b668</documentkey>
+        <fieldname>static_content</fieldname>
+        <language>zh</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-10 02:07:24</sys_created_on>
+        <sys_id>832e0fca2f1001104e0249e72799b6e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-10 02:07:24</sys_updated_on>
+        <tablename>content_block_static</tablename>
+        <value>&lt;div&gt;&#13;
+&lt;h4 class="wizard-row-indent"&gt;何を申請しますか&amp;#xff1f;&lt;/h4&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;p&gt;&lt;a href="https://fujitsudspudev4.service-now.com/wizard_view.do?sys_action&amp;#61;sysverb_wizard_ans&amp;amp;WIZARD:action&amp;#61;follow&amp;amp;wiz_referring_url&amp;#61;&amp;amp;wiz_collection_key&amp;#61;&amp;amp;wiz_collectionID&amp;#61;&amp;amp;wiz_collection&amp;#61;&amp;amp;wiz_collection_related_field&amp;#61;&amp;amp;wiz_view&amp;#61;&amp;amp;wiz_action&amp;#61;sysverb_new&amp;amp;sys_id&amp;#61;53a76e4b1bbbf0500223c99b234bcb87&amp;amp;sysparm_query&amp;#61;&amp;amp;sysparm_target&amp;#61;&amp;amp;sys_target&amp;#61;x_fudsp_isv_licmgt_npae_isv_license_invoice" rel="nofollow"&gt;簡易チェック&amp;#xff1a;ライセンス内容の適正利用を確認したい&lt;/a&gt;&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://fujitsudspudev4.service-now.com/wizard_view.do?sys_action&amp;#61;sysverb_wizard_ans&amp;amp;WIZARD:action&amp;#61;follow&amp;amp;wiz_referring_url&amp;#61;&amp;amp;wiz_collection_key&amp;#61;&amp;amp;wiz_collectionID&amp;#61;&amp;amp;wiz_collection&amp;#61;&amp;amp;wiz_collection_related_field&amp;#61;&amp;amp;wiz_view&amp;#61;&amp;amp;wiz_action&amp;#61;sysverb_new&amp;amp;sys_id&amp;#61;b707660b1bbbf0500223c99b234bcbd5&amp;amp;sysparm_query&amp;#61;&amp;amp;sysparm_target&amp;#61;&amp;amp;sys_target&amp;#61;x_fudsp_isv_licmgt_npae_isv_license_invoice" rel="nofollow"&gt;事前利用申請&amp;#xff1a;正式に提案する前に、有識者の事前確認が必要なライセンスについて、確認を依頼したい&lt;/a&gt;&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://fujitsudspudev4.service-now.com/wizard_view.do?sys_action&amp;#61;sysverb_wizard_ans&amp;amp;WIZARD:action&amp;#61;follow&amp;amp;wiz_referring_url&amp;#61;&amp;amp;wiz_collection_key&amp;#61;&amp;amp;wiz_collectionID&amp;#61;&amp;amp;wiz_collection&amp;#61;&amp;amp;wiz_collection_related_field&amp;#61;&amp;amp;wiz_view&amp;#61;&amp;amp;wiz_action&amp;#61;sysverb_new&amp;amp;sys_id&amp;#61;e515a2871bbbf0500223c99b234bcb06&amp;amp;sysparm_query&amp;#61;&amp;amp;sysparm_target&amp;#61;&amp;amp;sys_target&amp;#61;x_fudsp_isv_licmgt_npae_isv_license_invoice" rel="nofollow"&gt;新規利用申請&amp;#xff1a;正式に提案するライセンスについて、利用申請、および、見積を依頼したい&lt;/a&gt;&lt;/p&gt;</value>
+    </sys_translated_text>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>1b1e1eb6dbf15f088264f70fbf9619dd</instance_id>
+        <instance_name>dev58096</instance_name>
+        <name>content_block_static_addb438a2f1001104e0249e72799b668</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="content_block_static"&gt;&lt;content_block_static action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;category&gt;catalog&lt;/category&gt;&lt;condition/&gt;&lt;conditional&gt;false&lt;/conditional&gt;&lt;frame/&gt;&lt;logged_on&gt;false&lt;/logged_on&gt;&lt;name&gt;ライセンス利用申請&lt;/name&gt;&lt;static_content&gt;&lt;![CDATA[&lt;div&gt;
+&lt;h4 class="wizard-row-indent"&gt;何を申請しますか&amp;#xff1f;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href="https://fujitsudspudev4.service-now.com/wizard_view.do?sys_action&amp;#61;sysverb_wizard_ans&amp;amp;WIZARD:action&amp;#61;follow&amp;amp;wiz_referring_url&amp;#61;&amp;amp;wiz_collection_key&amp;#61;&amp;amp;wiz_collectionID&amp;#61;&amp;amp;wiz_collection&amp;#61;&amp;amp;wiz_collection_related_field&amp;#61;&amp;amp;wiz_view&amp;#61;&amp;amp;wiz_action&amp;#61;sysverb_new&amp;amp;sys_id&amp;#61;53a76e4b1bbbf0500223c99b234bcb87&amp;amp;sysparm_query&amp;#61;&amp;amp;sysparm_target&amp;#61;&amp;amp;sys_target&amp;#61;x_fudsp_isv_licmgt_npae_isv_license_invoice" rel="nofollow"&gt;簡易チェック&amp;#xff1a;ライセンス内容の適正利用を確認したい&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://fujitsudspudev4.service-now.com/wizard_view.do?sys_action&amp;#61;sysverb_wizard_ans&amp;amp;WIZARD:action&amp;#61;follow&amp;amp;wiz_referring_url&amp;#61;&amp;amp;wiz_collection_key&amp;#61;&amp;amp;wiz_collectionID&amp;#61;&amp;amp;wiz_collection&amp;#61;&amp;amp;wiz_collection_related_field&amp;#61;&amp;amp;wiz_view&amp;#61;&amp;amp;wiz_action&amp;#61;sysverb_new&amp;amp;sys_id&amp;#61;b707660b1bbbf0500223c99b234bcbd5&amp;amp;sysparm_query&amp;#61;&amp;amp;sysparm_target&amp;#61;&amp;amp;sys_target&amp;#61;x_fudsp_isv_licmgt_npae_isv_license_invoice" rel="nofollow"&gt;事前利用申請&amp;#xff1a;正式に提案する前に、有識者の事前確認が必要なライセンスについて、確認を依頼したい&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://fujitsudspudev4.service-now.com/wizard_view.do?sys_action&amp;#61;sysverb_wizard_ans&amp;amp;WIZARD:action&amp;#61;follow&amp;amp;wiz_referring_url&amp;#61;&amp;amp;wiz_collection_key&amp;#61;&amp;amp;wiz_collectionID&amp;#61;&amp;amp;wiz_collection&amp;#61;&amp;amp;wiz_collection_related_field&amp;#61;&amp;amp;wiz_view&amp;#61;&amp;amp;wiz_action&amp;#61;sysverb_new&amp;amp;sys_id&amp;#61;e515a2871bbbf0500223c99b234bcb06&amp;amp;sysparm_query&amp;#61;&amp;amp;sysparm_target&amp;#61;&amp;amp;sys_target&amp;#61;x_fudsp_isv_licmgt_npae_isv_license_invoice" rel="nofollow"&gt;新規利用申請&amp;#xff1a;正式に提案するライセンスについて、利用申請、および、見積を依頼したい&lt;/a&gt;&lt;/p&gt;]]&gt;&lt;/static_content&gt;&lt;sys_class_name&gt;content_block_static&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-12-10 02:07:21&lt;/sys_created_on&gt;&lt;sys_id&gt;addb438a2f1001104e0249e72799b668&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;ライセンス利用申請&lt;/sys_name&gt;&lt;sys_package display_value="NeedIt" source="x_58872_needit"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="NeedIt"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_scope&gt;&lt;sys_update_name&gt;content_block_static_addb438a2f1001104e0249e72799b668&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-12-10 02:07:21&lt;/sys_updated_on&gt;&lt;/content_block_static&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=addb438a2f1001104e0249e72799b668"/&gt;&lt;sys_translated_text action="INSERT_OR_UPDATE"&gt;&lt;documentkey&gt;addb438a2f1001104e0249e72799b668&lt;/documentkey&gt;&lt;fieldname&gt;static_content&lt;/fieldname&gt;&lt;language&gt;zh&lt;/language&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-12-10 02:07:24&lt;/sys_created_on&gt;&lt;sys_id&gt;832e0fca2f1001104e0249e72799b6e6&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-12-10 02:07:24&lt;/sys_updated_on&gt;&lt;tablename&gt;content_block_static&lt;/tablename&gt;&lt;value&gt;&amp;lt;div&amp;gt;&amp;#13;
+&amp;lt;h4 class="wizard-row-indent"&amp;gt;何を申請しますか&amp;amp;#xff1f;&amp;lt;/h4&amp;gt;&amp;#13;
+&amp;lt;/div&amp;gt;&amp;#13;
+&amp;lt;p&amp;gt;&amp;lt;a href="https://fujitsudspudev4.service-now.com/wizard_view.do?sys_action&amp;amp;#61;sysverb_wizard_ans&amp;amp;amp;WIZARD:action&amp;amp;#61;follow&amp;amp;amp;wiz_referring_url&amp;amp;#61;&amp;amp;amp;wiz_collection_key&amp;amp;#61;&amp;amp;amp;wiz_collectionID&amp;amp;#61;&amp;amp;amp;wiz_collection&amp;amp;#61;&amp;amp;amp;wiz_collection_related_field&amp;amp;#61;&amp;amp;amp;wiz_view&amp;amp;#61;&amp;amp;amp;wiz_action&amp;amp;#61;sysverb_new&amp;amp;amp;sys_id&amp;amp;#61;53a76e4b1bbbf0500223c99b234bcb87&amp;amp;amp;sysparm_query&amp;amp;#61;&amp;amp;amp;sysparm_target&amp;amp;#61;&amp;amp;amp;sys_target&amp;amp;#61;x_fudsp_isv_licmgt_npae_isv_license_invoice" rel="nofollow"&amp;gt;簡易チェック&amp;amp;#xff1a;ライセンス内容の適正利用を確認したい&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;#13;
+&amp;lt;p&amp;gt;&amp;lt;a href="https://fujitsudspudev4.service-now.com/wizard_view.do?sys_action&amp;amp;#61;sysverb_wizard_ans&amp;amp;amp;WIZARD:action&amp;amp;#61;follow&amp;amp;amp;wiz_referring_url&amp;amp;#61;&amp;amp;amp;wiz_collection_key&amp;amp;#61;&amp;amp;amp;wiz_collectionID&amp;amp;#61;&amp;amp;amp;wiz_collection&amp;amp;#61;&amp;amp;amp;wiz_collection_related_field&amp;amp;#61;&amp;amp;amp;wiz_view&amp;amp;#61;&amp;amp;amp;wiz_action&amp;amp;#61;sysverb_new&amp;amp;amp;sys_id&amp;amp;#61;b707660b1bbbf0500223c99b234bcbd5&amp;amp;amp;sysparm_query&amp;amp;#61;&amp;amp;amp;sysparm_target&amp;amp;#61;&amp;amp;amp;sys_target&amp;amp;#61;x_fudsp_isv_licmgt_npae_isv_license_invoice" rel="nofollow"&amp;gt;事前利用申請&amp;amp;#xff1a;正式に提案する前に、有識者の事前確認が必要なライセンスについて、確認を依頼したい&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;#13;
+&amp;lt;p&amp;gt;&amp;lt;a href="https://fujitsudspudev4.service-now.com/wizard_view.do?sys_action&amp;amp;#61;sysverb_wizard_ans&amp;amp;amp;WIZARD:action&amp;amp;#61;follow&amp;amp;amp;wiz_referring_url&amp;amp;#61;&amp;amp;amp;wiz_collection_key&amp;amp;#61;&amp;amp;amp;wiz_collectionID&amp;amp;#61;&amp;amp;amp;wiz_collection&amp;amp;#61;&amp;amp;amp;wiz_collection_related_field&amp;amp;#61;&amp;amp;amp;wiz_view&amp;amp;#61;&amp;amp;amp;wiz_action&amp;amp;#61;sysverb_new&amp;amp;amp;sys_id&amp;amp;#61;e515a2871bbbf0500223c99b234bcb06&amp;amp;amp;sysparm_query&amp;amp;#61;&amp;amp;amp;sysparm_target&amp;amp;#61;&amp;amp;amp;sys_target&amp;amp;#61;x_fudsp_isv_licmgt_npae_isv_license_invoice" rel="nofollow"&amp;gt;新規利用申請&amp;amp;#xff1a;正式に提案するライセンスについて、利用申請、および、見積を依頼したい&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&lt;/value&gt;&lt;/sys_translated_text&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-776939732</payload_hash>
+        <record_name>ライセンス利用申請</record_name>
+        <reverted_from/>
+        <source>65d3cee12f1401104e0249e72799b618</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-10 02:07:24</sys_created_on>
+        <sys_id>832e0fca2f1001104e0249e72799b6e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17da21857da0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-10 02:07:24</sys_updated_on>
+        <type>Static Content</type>
+        <update_guid>0f2e0fcab5100110daf697c910b790e7</update_guid>
+        <update_guid_history>0f2e0fcab5100110daf697c910b790e7:-776939732</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="ライセンス利用申請">127e478a2f1001104e0249e72799b6e6</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-10 02:08:43</sys_created_on>
+        <sys_db_object display_value="" name="content_block_static">content_block_static</sys_db_object>
+        <sys_id>1f80bb5758fe4d80af29580dd4244000</sys_id>
+        <sys_metadata>addb438a2f1001104e0249e72799b668</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ライセンス利用申請</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>content_block_static_addb438a2f1001104e0249e72799b668</sys_update_name>
+        <sys_update_version display_value="content_block_static_addb438a2f1001104e0249e72799b668">832e0fca2f1001104e0249e72799b6e8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-10 02:08:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

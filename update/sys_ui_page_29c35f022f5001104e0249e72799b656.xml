@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_page">
+    <sys_ui_page action="INSERT_OR_UPDATE">
+        <category>general</category>
+        <client_script><![CDATA[addLoadEvent(function() {
+	document.title = "ライセンス利用申請";
+});]]></client_script>
+        <description/>
+        <direct>false</direct>
+        <endpoint>x_58872_needit_license.do</endpoint>
+        <html><![CDATA[<style>
+	.wizard-container {
+	padding-left: 33px;
+	padding-bottom: 5px;
+	}
+
+	.wizard-row-indent {
+	padding-left: 15px;
+	}
+
+	.wizard-row-label {
+	padding-top: 5px;
+	}
+
+	.wizard-row-indent .input-group-radio .radio-label {
+	padding-bottom: 5px;
+	}
+</style>
+<form method="POST" action="wizard_view.do" name="wizard" accept-charset="UTF-8">
+	<input name="sysparm_ck" id="sysparm_ck" type="hidden" value="acc3438a1bd849102dfc553b234bcbb23d74edc12860feed04d980e4c08389d26f176fcb"/>
+	<input type="HIDDEN" name="sys_action" value="none"/>
+	<input type="HIDDEN" name="sysparm_collection"/>
+	<input type="HIDDEN" name="sysparm_target"/>
+	<input type="HIDDEN" name="sysparm_wizard_payload"/>
+	<input type="HIDDEN" name="sysparm_collectionID"/>
+	<input type="HIDDEN" name="sysparm_collection_key"/>
+	<input type="HIDDEN" name="sys_id" value="2b96c20f1bf7f0500223c99b234bcb79"/>
+	<input type="HIDDEN" name="sysparm_collection_related_field"/>
+	<input type="HIDDEN" name="sysparm_link_collection"/>
+	<input type="HIDDEN" name="sysparm_modify_check" value="true"/>	
+	<nav class="navbar navbar-default" role="navigation">
+		<div class="container-fluid">
+			<div class="navbar-header">
+				<input type="HIDDEN" id="sysverb_back"/>
+				<button class="btn btn-default icon-chevron-left navbar-btn" title="戻る" role="link" onclick="return gsftSubmit(document.getElementById('sysverb_back'));" data-original-title="戻る">
+					<span class="sr-only">戻る</span>
+				</button>
+				<h1 style="display:inline-block;" class="navbar-title">ライセンス利用申請</h1>
+			</div>
+			<div class="nav navbar-right"></div>
+		</div>
+	</nav>
+	<div class="container-fluid" style="border-bottom: 1px solid #ddd; margin-bottom: 5px;">
+		<input type="hidden" name="WIZARD:wizard_now" value="2b96c20f1bf7f0500223c99b234bcb79"/>
+		<input type="hidden" name="WIZARD_action" value="none"/>
+		<div>
+			<h4 class="wizard-row-indent" aria-level="2">何を申請しますか？</h4>
+		</div>
+	</div>
+	<div class="container-fluid wizard-container">
+		<a href="">
+			簡易チェック：ライセンス内容の適正利用を確認したい
+		</a>
+	</div>
+	<div class="container-fluid wizard-container">
+		<a href="">
+			事前利用申請：正式に提案する前に、有識者の事前確認が必要なライセンスについて、確認を依頼したい
+		</a>
+	</div>
+	<div class="container-fluid wizard-container">
+		<a href="">
+			新規利用申請：正式に提案するライセンスについて、利用申請、および、見積を依頼したい
+		</a>
+	</div>
+	<div class="container-fluid">
+		<div class="pull-right"></div>
+	</div>
+</form>
+<div style="border:none; visibility:hidden">
+	<form name="sys_personalize" style="display:inline" method="GET" action="slushbucket.do">
+		<input type="hidden" name="sysparm_referring_url" value="wizard_view.do?sysparm_stack=x_fudsp_isv_licmgt_npae_isv_license_invoice_list.do@99@sysparm_wizardAction=sysverb_new@99@sysparm_parent=2b96c20f1bf7f0500223c99b234bcb79@99@sys_target=x_fudsp_isv_licmgt_npae_isv_license_invoice"/>
+		<input type="hidden" name="sysparm_view" value=""/>
+	</form>
+</div>]]></html>
+        <name>license</name>
+        <processing_script/>
+        <sys_class_name>sys_ui_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-10 02:38:08</sys_created_on>
+        <sys_id>29c35f022f5001104e0249e72799b656</sys_id>
+        <sys_mod_count>16</sys_mod_count>
+        <sys_name>license</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_page_29c35f022f5001104e0249e72799b656</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-10 05:47:10</sys_updated_on>
+    </sys_ui_page>
+</record_update>
