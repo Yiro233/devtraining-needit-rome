@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="NeedIt create new">83d5b0bb2f1001104e0249e72799b61a</sc_cat_item>
+        <sc_category display_value="NeedIt">dd7e356b2f0001104e0249e72799b655</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-15 01:31:23</sys_created_on>
+        <sys_id>d8e5f8bb2f1001104e0249e72799b66c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt.NeedIt create new</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sc_cat_item_category_d8e5f8bb2f1001104e0249e72799b66c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-15 01:31:23</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>1b1e1eb6dbf15f088264f70fbf9619dd</instance_id>
+        <instance_name>dev58096</instance_name>
+        <name>sc_cat_item_category_d8e5f8bb2f1001104e0249e72799b66c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="NeedIt create new">83d5b0bb2f1001104e0249e72799b61a</sc_cat_item><sc_category display_value="NeedIt">dd7e356b2f0001104e0249e72799b655</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-12-15 01:31:23</sys_created_on><sys_id>d8e5f8bb2f1001104e0249e72799b66c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NeedIt.NeedIt create new</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sc_cat_item_category_d8e5f8bb2f1001104e0249e72799b66c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-15 01:31:23</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1352124188</payload_hash>
+        <record_name>NeedIt.NeedIt create new</record_name>
+        <reverted_from/>
+        <source>65d3cee12f1401104e0249e72799b618</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-15 01:31:24</sys_created_on>
+        <sys_id>d8e5f8bb2f1001104e0249e72799b670</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17dbbb72e2e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-15 01:31:24</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>50e5f8bb44100110e69f935af390ac70</update_guid>
+        <update_guid_history>50e5f8bb44100110e69f935af390ac70:-1352124188</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="NeedIt.NeedIt create new">7c1670fb2f1001104e0249e72799b6db</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-15 01:32:15</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>7fbf3e1850c64e60936ebd7bf45f8a99</sys_id>
+        <sys_metadata>d8e5f8bb2f1001104e0249e72799b66c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt.NeedIt create new</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_d8e5f8bb2f1001104e0249e72799b66c</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_d8e5f8bb2f1001104e0249e72799b66c">d8e5f8bb2f1001104e0249e72799b670</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-15 01:32:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

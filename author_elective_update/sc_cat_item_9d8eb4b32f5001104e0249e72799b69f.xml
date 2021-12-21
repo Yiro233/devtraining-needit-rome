@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
+    <sc_cat_item action="DELETE">
+        <access_type>restricted</access_type>
+        <active>false</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <category display_value="決裁">bc9bfcff2f1001104e0249e72799b6bd</category>
+        <checked_out>false</checked_out>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description/>
+        <display_price_property>non_zero</display_price_property>
+        <entitlement_script/>
+        <flow_designer_flow/>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <location/>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>起案担当登録</name>
+        <no_attachment_v2>false</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>false</no_cart_v2>
+        <no_delivery_time_v2>false</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>false</no_quantity_v2>
+        <no_search>false</no_search>
+        <no_wishlist_v2>false</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
+        <picture/>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=9d8eb4b32f5001104e0249e72799b69f&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <published_ref display_value="起案担当登録">642c38332f5001104e0249e72799b604</published_ref>
+        <recurring_frequency/>
+        <recurring_price>0</recurring_price>
+        <request_method/>
+        <roles/>
+        <sc_catalogs>c45b38ff2f1001104e0249e72799b653</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <sc_template/>
+        <short_description/>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <state>draft</state>
+        <sys_class_name>sc_cat_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-15 02:09:08</sys_created_on>
+        <sys_id>9d8eb4b32f5001104e0249e72799b69f</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Requester registration</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sc_cat_item_9d8eb4b32f5001104e0249e72799b69f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-15 02:13:52</sys_updated_on>
+        <taxonomy_topic/>
+        <template/>
+        <template_manager_roles/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item>
+    <sys_translated_text action="DELETE" query="documentkey=9d8eb4b32f5001104e0249e72799b69f"/>
+    <sys_translated_text action="DELETE">
+        <documentkey>9d8eb4b32f5001104e0249e72799b69f</documentkey>
+        <fieldname>description</fieldname>
+        <language>ja</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-15 02:09:09</sys_created_on>
+        <sys_id>e58ef4b32f5001104e0249e72799b666</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-15 02:09:09</sys_updated_on>
+        <tablename>sc_cat_item</tablename>
+        <value/>
+    </sys_translated_text>
+    <sys_translated_text action="DELETE">
+        <documentkey>9d8eb4b32f5001104e0249e72799b69f</documentkey>
+        <fieldname>name</fieldname>
+        <language>ja</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-15 02:09:09</sys_created_on>
+        <sys_id>918eb4b32f5001104e0249e72799b6a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-15 02:09:09</sys_updated_on>
+        <tablename>sc_cat_item</tablename>
+        <value>Requester registration</value>
+    </sys_translated_text>
+    <sys_translated_text action="DELETE">
+        <documentkey>9d8eb4b32f5001104e0249e72799b69f</documentkey>
+        <fieldname>short_description</fieldname>
+        <language>ja</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-15 02:09:09</sys_created_on>
+        <sys_id>dd8eb4b32f5001104e0249e72799b6a7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-15 02:09:09</sys_updated_on>
+        <tablename>sc_cat_item</tablename>
+        <value/>
+    </sys_translated_text>
+    <fx_price action="DELETE" query="id=9d8eb4b32f5001104e0249e72799b69f"/>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>9d8eb4b32f5001104e0249e72799b69f</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-15 02:09:09</sys_created_on>
+        <sys_id>518eb4b32f5001104e0249e72799b6a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-15 02:09:09</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>recurring_price</field>
+        <id>9d8eb4b32f5001104e0249e72799b69f</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-15 02:09:09</sys_created_on>
+        <sys_id>918eb4b32f5001104e0249e72799b6a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-15 02:09:09</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>1b1e1eb6dbf15f088264f70fbf9619dd</instance_id>
+        <instance_name>dev58096</instance_name>
+        <name>sc_cat_item_9d8eb4b32f5001104e0249e72799b69f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item"><sc_cat_item action="INSERT_OR_UPDATE"><access_type>restricted</access_type><active>false</active><availability>on_desktop</availability><billable>false</billable><category display_value="決裁">bc9bfcff2f1001104e0249e72799b6bd</category><checked_out>false</checked_out><cost>0</cost><custom_cart/><delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan><delivery_plan_script/><delivery_time>1970-01-03 00:00:00</delivery_time><description/><display_price_property>non_zero</display_price_property><entitlement_script/><flow_designer_flow/><group/><hide_sp>false</hide_sp><icon/><ignore_price>true</ignore_price><image/><location/><mandatory_attachment>false</mandatory_attachment><meta/><mobile_hide_price>false</mobile_hide_price><mobile_picture/><mobile_picture_type>use_desktop_picture</mobile_picture_type><model/><name>起案担当登録</name><no_attachment_v2>false</no_attachment_v2><no_cart>false</no_cart><no_cart_v2>false</no_cart_v2><no_delivery_time_v2>false</no_delivery_time_v2><no_order>false</no_order><no_order_now>false</no_order_now><no_proceed_checkout>false</no_proceed_checkout><no_quantity>false</no_quantity><no_quantity_v2>false</no_quantity_v2><no_search>false</no_search><no_wishlist_v2>false</no_wishlist_v2><omit_price>false</omit_price><order>0</order><ordered_item_link/><owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner><picture/><preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=9d8eb4b32f5001104e0249e72799b69f&amp;sysparm_preview=true", "summary");</preview><price>0</price><published_ref display_value="起案担当登録">642c38332f5001104e0249e72799b604</published_ref><recurring_frequency/><recurring_price>0</recurring_price><request_method/><roles/><sc_catalogs>c45b38ff2f1001104e0249e72799b653</sc_catalogs><sc_ic_item_staging/><sc_ic_version/><sc_template/><short_description/><show_variable_help_on_load>false</show_variable_help_on_load><start_closed>false</start_closed><state>draft</state><sys_class_name>sc_cat_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-12-15 02:09:08</sys_created_on><sys_id>9d8eb4b32f5001104e0249e72799b69f</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Requester registration</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sc_cat_item_9d8eb4b32f5001104e0249e72799b69f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-15 02:13:52</sys_updated_on><taxonomy_topic/><template/><template_manager_roles/><type>item</type><use_sc_layout>true</use_sc_layout><vendor/><visible_bundle>true</visible_bundle><visible_guide>true</visible_guide><visible_standalone>true</visible_standalone><workflow/></sc_cat_item><sys_translated_text action="delete_multiple" query="documentkey=9d8eb4b32f5001104e0249e72799b69f"/><sys_translated_text action="INSERT_OR_UPDATE"><documentkey>9d8eb4b32f5001104e0249e72799b69f</documentkey><fieldname>description</fieldname><language>ja</language><sys_created_by>admin</sys_created_by><sys_created_on>2021-12-15 02:09:09</sys_created_on><sys_id>e58ef4b32f5001104e0249e72799b666</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-15 02:09:09</sys_updated_on><tablename>sc_cat_item</tablename><value/></sys_translated_text><sys_translated_text action="INSERT_OR_UPDATE"><documentkey>9d8eb4b32f5001104e0249e72799b69f</documentkey><fieldname>name</fieldname><language>ja</language><sys_created_by>admin</sys_created_by><sys_created_on>2021-12-15 02:09:09</sys_created_on><sys_id>918eb4b32f5001104e0249e72799b6a3</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-15 02:09:09</sys_updated_on><tablename>sc_cat_item</tablename><value>Requester registration</value></sys_translated_text><sys_translated_text action="INSERT_OR_UPDATE"><documentkey>9d8eb4b32f5001104e0249e72799b69f</documentkey><fieldname>short_description</fieldname><language>ja</language><sys_created_by>admin</sys_created_by><sys_created_on>2021-12-15 02:09:09</sys_created_on><sys_id>dd8eb4b32f5001104e0249e72799b6a7</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-15 02:09:09</sys_updated_on><tablename>sc_cat_item</tablename><value/></sys_translated_text><fx_price action="delete_multiple" query="id=9d8eb4b32f5001104e0249e72799b69f"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>price</field><id>9d8eb4b32f5001104e0249e72799b69f</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2021-12-15 02:09:09</sys_created_on><sys_id>518eb4b32f5001104e0249e72799b6a2</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-15 02:09:09</sys_updated_on><table>sc_cat_item</table><type>calculated</type></fx_price><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>recurring_price</field><id>9d8eb4b32f5001104e0249e72799b69f</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2021-12-15 02:09:09</sys_created_on><sys_id>918eb4b32f5001104e0249e72799b6a5</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-15 02:09:09</sys_updated_on><table>sc_cat_item</table><type>calculated</type></fx_price></record_update>]]></payload>
+        <payload_hash>1717054605</payload_hash>
+        <record_name>起案担当登録</record_name>
+        <reverted_from/>
+        <source>65d3cee12f1401104e0249e72799b618</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-15 02:13:52</sys_created_on>
+        <sys_id>e29ff4f32f5001104e0249e72799b68e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17dbbde0fbc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-15 02:13:52</sys_updated_on>
+        <type>カタログアイテム</type>
+        <update_guid>2a9ff4f38a50011042498819d392848d</update_guid>
+        <update_guid_history>2a9ff4f38a50011042498819d392848d:1717054605,695ff0f3a650011053e22f464ab2665a:-1860304492,618ef4b3fb50011027ee4469a5730769:1528104159,ed8ef4b301500110fc0ce898b40f1964:1576018680,dd8eb4b3ca5001101cda3f1263678da6:235034012</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Requester registration">35110d372f5001104e0249e72799b683</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-12-15 02:20:22</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item">sc_cat_item</sys_db_object>
+        <sys_id>30c7acfbbcb3477a878049adbe5b7a44</sys_id>
+        <sys_metadata>9d8eb4b32f5001104e0249e72799b69f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>起案担当登録</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_9d8eb4b32f5001104e0249e72799b69f</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_9d8eb4b32f5001104e0249e72799b69f">e29ff4f32f5001104e0249e72799b68e</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-12-15 02:20:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
